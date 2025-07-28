@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="underweight_desc">You have a lower than normal body weight. You can eat a bit more.</string>
+    <string name="normal_desc">You have a normal body weight. Good job!</string>
+    <string name="overweight_desc">You have a higher than normal body weight. Try to exercise more.</string>
+    <string name="obese_desc">You have a much higher than normal body weight. Please consult a doctor.</string>
+</resources>

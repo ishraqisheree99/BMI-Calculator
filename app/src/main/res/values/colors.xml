@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#1a1a2e</color>
+    <color name="secondary_dark">#16213e</color>
+    <color name="accent_gold">#d4af37</color>
+    <color name="accent_blue">#4a69bd</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#b0b0b0</color>
+    <color name="card_background">#2a2a3e</color>
+    <color name="button_calculate">#6c5ce7</color>
+    <color name="button_increment">#00b894</color>
+    <color name="button_decrement">#fd79a8</color>
+    <color name="slider_active">#fd79a8</color>
+    <color name="male_color">#4a69bd</color>
+    <color name="female_color">#fd79a8</color>
+    <color name="underweight">#74b9ff</color>
+    <color name="normal">#00b894</color>
+    <color name="overweight">#fdcb6e</color>
+    <color name="obese">#e17055</color>
+</resources>
