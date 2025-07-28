@@ -5,7 +5,7 @@ A user-friendly BMI calculator designed to help you effortlessly track your heal
 ---
 
 ### 📸 Screenshot
-![BMI Calculator Screenshot](screem/1.png)
+![BMI Calculator Screenshot](screen/1.png)
 
 ### 🎞️ Live Demo
-![Demo Animation](screem/2.gif)
+![Demo Animation](screen/2.gif)
